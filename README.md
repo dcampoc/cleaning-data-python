@@ -1,2 +1,2 @@
-# clearning-data-python
+# cleaning-data-python
 This folder contains some exercises  for organizing data using pandas 
